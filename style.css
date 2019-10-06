@@ -53,6 +53,7 @@ audio{
     align-content: center;
     height: 40px;
     width: 100%;
+    outline: none;
 }
 body{
     background:linear-gradient(to left,#9796f0, #fbc7d4);
